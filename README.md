@@ -117,10 +117,10 @@ Markdown format:
 ### 2018
 #### *`CVPR 2018`*
 * [Neural Baby Talk](https://arxiv.org/abs/1803.09845) - Lu J et al, `CVPR 2018`. [[code]](https://github.com/jiasenlu/NeuralBabyTalk)
-* [Convolutional Image Captioning](https://arxiv.org/abs/1711.09151) - Aneja J et al, `CVPR 2018`.
+* [Convolutional Image Captioning](https://arxiv.org/abs/1711.09151) - Aneja J et al, `CVPR 2018`. [[code]](https://github.com/aditya12agd5/convcap)  
 * [Learning to Evaluate Image Captioning](https://arxiv.org/abs/1806.06422) - Cui Y et al, `CVPR 2018`. [[code]](https://github.com/richardaecn/cvpr18-caption-eval)
 * [Discriminability Objective for Training Descriptive Captions](https://arxiv.org/abs/1803.04376) - Luo R et al, `CVPR 2018`. [[code]](https://github.com/ruotianluo/DiscCaptioning)
-* [SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text](https://arxiv.org/abs/1805.07030) - Mathews A et al, `CVPR 2018`.
+* [SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text](https://arxiv.org/abs/1805.07030) - Mathews A et al, `CVPR 2018`.[[code]](https://github.com/computationalmedia/semstyle)  
 * [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998) - Anderson P et al, `CVPR 2018`. [[code]](https://github.com/peteanderson80/bottom-up-attention)
 * [GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints
 ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf) - Chen F et al, `CVPR 2018`.
