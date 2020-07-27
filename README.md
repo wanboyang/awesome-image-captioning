@@ -158,7 +158,7 @@ Markdown format:
 * [Unsupervised Image Captioning](https://arxiv.org/abs/1811.10787) - Yang F et al, `CVPR 2019`. [[code]](https://github.com/fengyang0317/unsupervised_captioning)
 * [Engaging Image Captioning Via Personality](https://arxiv.org/abs/1810.10665) - Shuster K et al, `CVPR 2019`.
 * [Pointing Novel Objects in Image Captioning](https://arxiv.org/abs/1904.11251) - Li Y et al, `CVPR 2019`.
-* [Auto-Encoding Scene Graphs for Image Captioning](https://arxiv.org/abs/1812.02378) - Yang X et al, `CVPR 2019`.
+* [Auto-Encoding Scene Graphs for Image Captioning](https://arxiv.org/abs/1812.02378) - Yang X et al, `CVPR 2019`.[[code]](https://github.com/fengyang0317/unsupervised_captioning)   
 * [Context and Attribute Grounded Dense Captioning](https://arxiv.org/abs/1904.01410) - Yin G et al, `CVPR 2019`.
 * [Look Back and Predict Forward in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_Look_Back_and_Predict_Forward_in_Image_Captioning_CVPR_2019_paper.pdf) - Qin Y et al, `CVPR 2019`.
 * [Self-critical n-step Training for Image Captioning](https://arxiv.org/abs/1904.06861) - Gao J et al, `CVPR 2019`.
@@ -189,11 +189,63 @@ Markdown format:
 * [Show, Infer and Tell: Contextual Inference for Creative Captioning](https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf) - Khare et al, `BMVC 2019`. [[code]](https://github.com/ankit1khare/Show_Infer_and_Tell-CIC)
 * [SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward](https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf) - Yan et al, `BMVC 2019`.
 #### *`ICCV 2019`*
-* [Hierarchy Parsing for Image Captioning](https://arxiv.org/pdf/1909.03918.pdf) - Yao T et al, `ICCV 2019`.
-* [Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf) - Li G et al, `ICCV 2019`.
-* [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang L et al, `ICCV 2019`. [[code]](https://github.com/husthuaan/AoANet)
-* [Reflective Decoding Network for Image Captioning](https://arxiv.org/pdf/1908.11824.pdf) - Ke L at al, `ICCV 2019`.
-* [Learning to Collocate Neural Modules for Image Captioning](https://arxiv.org/pdf/1904.08608.pdf) - Yang X et al, `ICCV 2019`.
+- **DUDA**: Robust Change Captioning  
+  *Dong Huk Park, Trevor Darrell, Anna Rohrbach*  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Robust_Change_Captioning_ICCV_2019_paper.pdf)    
+  `ICCV 2019 Oral`
+
+- **AoANet**: Attention on Attention for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)
+[[code]](https://github.com/husthuaan/AoANet)  
+  *Lun Huang, Wenmin Wang, Jie Chen, Xiao-Yong Wei*   
+  `ICCV 2019 Oral`
+
+- **MaBi-LSTMs**: Exploring Overall Contextual Information for Image Captioning in Human-Like Cognitive Style  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Exploring_Overall_Contextual_Information_for_Image_Captioning_in_Human-Like_Cognitive_ICCV_2019_paper.pdf)   
+  *Hongwei Ge, Zehang Yan, Kai Zhang, Mingde Zhao, Liang Sun*  
+
+- **Align2Ground**: Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Datta_Align2Ground_Weakly_Supervised_Phrase_Grounding_Guided_by_Image-Caption_Alignment_ICCV_2019_paper.pdf)  
+  Samyak Datta, Karan Sikka, Anirban Roy, Karuna Ahuja, Devi Parikh, Ajay Divakaran*    
+
+- **GCN-LSTM+HIP**: Hierarchy Parsing for Image Captioning [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_Hierarchy_Parsing_for_Image_Captioning_ICCV_2019_paper.pdf)  
+  *Ting Yao, Yingwei Pan, Yehao Li, Tao Mei*    
+
+- **IR+Tdiv**: Generating Diverse and Descriptive Image Captions Using Visual Paraphrases   [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Generating_Diverse_and_Descriptive_Image_Captions_Using_Visual_Paraphrases_ICCV_2019_paper.pdf)  
+  *Lixin Liu, Jiajun Tang, Xiaojun Wan, Zongming Guo*    
+
+- **CNM+SGAE**: Learning to Collocate Neural Modules for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Learning_to_Collocate_Neural_Modules_for_Image_Captioning_ICCV_2019_paper.pdf)  
+  *Xu Yang, Hanwang Zhang, Jianfei Cai*     
+
+- **Seq-CVAE**: Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aneja_Sequential_Latent_Spaces_for_Modeling_the_Intention_During_Diverse_Image_ICCV_2019_paper.pdf)   
+  Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing
+
+- Towards Unsupervised Image Captioning With Shared Multimodal Embeddings  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Laina_Towards_Unsupervised_Image_Captioning_With_Shared_Multimodal_Embeddings_ICCV_2019_paper.pdf)   
+  *Iro Laina, Christian Rupprecht, Nassir Navab*    
+
+- Human Attention in Image Captioning: Dataset and Analysis  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Human_Attention_in_Image_Captioning_Dataset_and_Analysis_ICCV_2019_paper.pdf) [[code]](https://github.com/SenHe/Human-Attention-in-Image-Captioning)   
+  *Sen He, Hamed R. Tavakoli, Ali Borji, Nicolas Pugeault*   
+
+- **RDN**: Reflective Decoding Network for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ke_Reflective_Decoding_Network_for_Image_Captioning_ICCV_2019_paper.pdf)  
+  *Lei Ke, Wenjie Pei, Ruiyu Li, Xiaoyong Shen, Yu-Wing Tai*   
+
+- **PSST**: Joint Optimization for Cooperative Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Vered_Joint_Optimization_for_Cooperative_Image_Captioning_ICCV_2019_paper.pdf)   
+  *Gilad Vered, Gal Oren, Yuval Atzmon, Gal Chechik*   
+
+- **MUTAN**: Watch, Listen and Tell: Multi-Modal Weakly Supervised Dense Event Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rahman_Watch_Listen_and_Tell_Multi-Modal_Weakly_Supervised_Dense_Event_Captioning_ICCV_2019_paper.pdf)  
+  *Tanzila Rahman, Bicheng Xu, Leonid Sigal*   
+
+- **ETA**: Entangled Transformer for Image Captioning   [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)  
+  *Guang Li, Linchao Zhu, Ping Liu, Yi Yang*   
+
+- **nocaps**: novel object captioning at scale  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf)  
+  *Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson*   
+
+- **Cap2Det**: Learning to Amplify Weak Caption Supervision for Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Cap2Det_Learning_to_Amplify_Weak_Caption_Supervision_for_Object_Detection_ICCV_2019_paper.pdf) 
+[[code]](https://github.com/yekeren/Cap2Det)   
+  *Keren Ye, Mingda Zhang, Adriana Kovashka, Wei Li, Danfeng Qin, Jesse Berent*   
+
+- **Graph-Align**: Unpaired Image Captioning via Scene Graph Alignments  [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Unpaired_Image_Captioning_via_Scene_Graph_Alignments_ICCV_2019_paper.pdf)  
+  *Jiuxiang* Gu, Shafiq Joty, Jianfei Cai, Handong Zhao, Xu Yang, Gang Wang   
+
+- : Learning to Caption Images Through a Lifetime by Asking Questions  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shen_Learning_to_Caption_Images_Through_a_Lifetime_by_Asking_Questions_ICCV_2019_paper.pdf)  
+  *Tingke Shen, Amlan Kar, Sanja Fidler*   
 #### *`NeurIPS 2019`*
 * [Image Captioning: Transforming Objects into Words](https://papers.nips.cc/paper/9293-image-captioning-transforming-objects-into-words) - Herdade S et al, `NeurIPS 2019`. [[code]](https://github.com/yahoo/object_relation_transformer)  
 * [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang L et al, `NeurIPS 2019`. [[code]](https://github.com/husthuaan/AAT)
@@ -212,28 +264,59 @@ Markdown format:
 
 ### 2020
 #### *`AAAI 2020`*
-* [MemCap: Memorizing Style Knowledge for Image Captioning](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhaoW.1402.pdf) - Zhao et al, `AAAI 2020`.
-* [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouL.362.pdf) - Zhou L et al, `AAAI 2020`.
-* [Show, Recall, and Tell: Image Captioning with Recall Mechanism](https://arxiv.org/abs/2001.05876) - Wang L et al, `AAAI 2020`.
-* [Reinforcing an Image Caption Generator using Off-line Human Feedback](https://arxiv.org/abs/1911.09753) - Hongsuck Seo P et al, `AAAI 2020`.
-* [Interactive Dual Generative Adversarial Networks for Image Captioning](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf) - Liu et al, `AAAI 2020`.
-* [Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Cao et al, `AAAI 2020`.
-* [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf) - Hou et al, `AAAI 2020`.
-* [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network
-for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.2192.pdf) - Zhang et al, `AAAI 2020`.
+- **Unified VLP**: Unified Vision-Language Pre-Training for Image Captioning and VQA  [[paper]](https://arxiv.org/abs/1909.11059)
+[[code]](https://github.com/LuoweiZhou/VLP)  
+  *Luowei Zhou (University of Michigan); Hamid Palangi (Microsoft Research); Lei Zhang (Microsoft); Houdong Hu  (Microsoft AI and Research); Jason Corso (University of Michigan); Jianfeng Gao (Microsoft Research)*  
+
+- **OffPG**: Reinforcing an Image Caption Generator using Off-line Human Feedback  [[paper]](https://arxiv.org/abs/1911.09753)  
+  *Paul Hongsuck Seo (POSTECH); Piyush Sharma (Google Research); Tomer Levinboim (Google); Bohyung Han(Seoul National University); Radu Soricut (Google)*  
+
+- **MemCap**: Memorizing Style Knowledge for Image Captioning  [[paper]](https://wuxinxiao.github.io/assets/papers/2020/MemCap.pdf)  
+  *Wentian Zhao (Beijing Institute of Technology); Xinxiao Wu (Beijing Institute of Technology); Xiaoxun Zhang(Alibaba Group)*  
+
+- **C-R Reasoning**: Joint Commonsense and Relation Reasoning for Image and Video Captioning  [[paper]](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf)  
+  *Jingyi Hou (Beijing Institute of Technology); Xinxiao Wu (Beijing Institute of Technology); Xiaoxun Zhang (AlibabaGroup); Yayun Qi (Beijing Institute of Technology); Yunde Jia (Beijing Institute of Technology); Jiebo Luo (University of Rochester)*
+
+- **MHTN**: Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption  [[paper]](https://weizhangltt.github.io/paper/zhang-aaai20.pdf)  
+  *Wei Zhang (East China Normal University); Yue Ying (East China Normal University); Pan Lu (The University of California, Los Angeles); Hongyuan Zha (GEORGIA TECH)*  
+
+- Show, Recall, and Tell: Image Captioning with Recall Mechanism [[paper]](https://arxiv.org/abs/2001.05876)  
+  *Li WANG (MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, China); Zechen BAI(Institute of Software, Chinese Academy of Science, China); Yonghua Zhang (Bytedance); Hongtao Lu (Shanghai Jiao Tong University)*   
+
+- Interactive Dual Generative Adversarial Networks for Image Captioning  [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf)  
+  *Junhao Liu (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Kai Wang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Chunpu Xu (Huazhong University of Science and Technology); Zhou Zhao (Zhejiang University); Ruifeng Xu (Harbin Institute of Technology (Shenzhen)); Ying Shen (Peking University Shenzhen Graduate School); Min Yang ( Chinese Academy of Sciences)*  
+
+- **FDM-net**: Feature Deformation Meta-Networks in Image Captioning of Novel Objects [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf)  
+  Tingjia Cao (Fudan University); Ke Han (Fudan University); Xiaomei Wang (Fudan University); Lin Ma (Tencent AI Lab); Yanwei Fu (Fudan University); Yu-Gang Jiang (Fudan University); Xiangyang Xue (Fudan University)
 
 #### *`CVPR 2020`*
-* [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) - Guo L et al, `CVPR 2020`.
-* [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object_Relational_Graph_With_Teacher-Recommended_Learning_for_Video_Captioning_CVPR_2020_paper.pdf) - Zhang Z et al, `CVPR 2020`.
-* [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Say_As_You_Wish_Fine-Grained_Control_of_Image_Caption_Generation_CVPR_2020_paper.pdf) - Chen S et al, `CVPR 2020`.
+- Context-Aware Group Captioning via Self-Attention and Contrastive Features [[paper]](https://arxiv.org/abs/2004.03708)  
+  Zhuowan Li, Quan Tran, Long Mai, Zhe Lin, Alan L. Yuille
+- More Grounded Image Captioning by Distilling Image-Text Matching Model [[paper]](https://arxiv.org/abs/2004.00390v1) [[code]](https://github.com/YuanEZhou/Grounded-Image-Captioning)  
+  Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang
+- Show, Edit and Tell: A Framework for Editing Image Captions [[paper]](https://arxiv.org/abs/2003.03107) [[code]](https://github.com/fawazsammani/show-edit-tell)  
+  Fawaz Sammani, Luke Melas-Kyriazi
+- Say As You Wish: Fine-Grained Control of Image Caption Generation With Abstract Scene Graphs [[paper]](https://arxiv.org/abs/2003.00387) [[code]](https://github.com/cshizhe/asg2cap)  
+  Shizhe Chen, Qin Jin, Peng Wang, Qi Wu
+- Normalized and Geometry-Aware Self-Attention Network for Image Captioning [[paper]](https://arxiv.org/abs/2003.08897)  
+  Longteng Guo, Jing Liu, Xinxin Zhu, Peng Yao, Shichen Lu, Hanqing Lu
+- Meshed-Memory Transformer for Image Captioning [[paper]](https://arxiv.org/abs/1912.08226) [[code]](https://github.com/aimagelab/meshed-memory-transformer)  
+  Marcella Cornia, Matteo Stefanini, Lorenzo Baraldi, Rita Cucchiara
+- X-Linear Attention Networks for Image Captioning [[paper]](https://arxiv.org/abs/2003.14080) [[code]](https://github.com/JDAI-CV/image-captioning)  
+  Yingwei Pan, Ting Yao, Yehao Li, Tao Mei
+- Transform and Tell: Entity-Aware News Image Captioning [[paper]](https://arxiv.org/abs/2004.08070) [[code]](https://github.com/alasdairtran/transform-and-tell) [[website]](https://transform-and-tell.ml/)  
+  Alasdair Tran, Alexander Mathews, Lexing Xie
 
 #### *`ACL 2020`*
-* [Improving Image Captioning with Better Use of Caption]() - Shi Z et al, `ACL 2020`.
-* [Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908) - Alikhani M et al, `ACL 2020`.
-* [Improving Image Captioning Evaluation by Considering Inter References Variance]() - Yi Y et al, `ACL 2020`.
+
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
 * [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
-
+- Clue: Cross-modal Coherence Modeling for Caption Generation [[paper]](https://arxiv.org/abs/2005.00908)  
+  Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut and Matthew Stone
+- Improving Image Captioning Evaluation by Considering Inter References Variance[[paper]](https://www.aclweb.org/anthology/2020.acl-main.93/)  
+  Yanzhi Yi, Hangyu Deng and Jinglu Hu  
+- Improving Image Captioning with Better Use of Caption[[paper]](https://www.aclweb.org/anthology/2020.acl-main.664/)  
+  Zhan Shi, Xu Zhou, Xipeng Qiu and Xiaodan Zhu
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
