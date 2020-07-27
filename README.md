@@ -132,11 +132,11 @@ Markdown format:
 * [Boosted Attention: Leveraging Human Attention for Image Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shi_Chen_Boosted_Attention_Leveraging_ECCV_2018_paper.pdf) - Chen S et al, `ECCV 2018`.
 * ["Factual" or "Emotional": Stylized Image Captioning with Adaptive Learning and Attention](https://arxiv.org/abs/1807.03871) - Chen T et al, `ECCV 2018`.
 #### *`AAAI 2018`*
-* [Learning to Guide Decoding for Image Captioning](https://arxiv.org/abs/1804.00887) - Jiang W et al, `AAAI 2018`.
+* [Learning to Guide Decoding for Image Captioning](https://arxiv.org/abs/1804.00887) - Jiang W et al, `AAAI 2018`.[[code]](https://github.com/HaleyPei/Learning-to-Guide-Decoding-for-Image-Captioning)  
 * [Stack-Captioning: Coarse-to-Fine Learning for Image Captioning](https://arxiv.org/abs/1709.03376) - Gu J et al, `AAAI 2018`. [[code]](https://github.com/gujiuxiang/Stack-Captioning)
 * [Temporal-difference Learning with Sampling Baseline for Image Captioning](http://eprints.lancs.ac.uk/123576/1/2018_4.pdf) - Chen H et al, `AAAI 2018`.
 #### *`NeurIPS 2018`*
-* [Partially-Supervised Image Captioning](https://arxiv.org/pdf/1806.06004.pdf) - Anderson P et al, `NeurIPS 2018`.
+* [Partially-Supervised Image Captioning](https://arxiv.org/pdf/1806.06004.pdf) - Anderson P et al, `NeurIPS 2018`.[[code]](https://github.com/ajaysub110/A-Neural-Compositional-Paradigm-for-Image-Captioning)  
 * [A Neural Compositional Paradigm for Image Captioning](https://arxiv.org/pdf/1810.09630.pdf) - Dai B et al, `NeurIPS 2018`.
 #### *`NAACL 2018`*
 * [Defoiling Foiled Image Captions](https://arxiv.org/abs/1805.06549) - Wang J et al, `NAACL 2018`.
@@ -150,7 +150,7 @@ Markdown format:
 #### *`arXiv preprint 2018`*
 * [Improved Image Captioning with Adversarial Semantic Alignment](https://arxiv.org/abs/1805.00063) - Melnyk I et al, `arXiv preprint 2018`.
 * [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, `arXiv preprint 2018`.
-* [CNN+CNN: Convolutional Decoders for Image Captioning](https://arxiv.org/abs/1805.09019) - Wang Q et al, `arXiv preprint 2018`.
+* [CNN+CNN: Convolutional Decoders for Image Captioning](https://arxiv.org/abs/1805.09019) - Wang Q et al, `arXiv preprint 2018`.[[code]](https://github.com/qingzwang/GHA-ImageCaptioning)
 * [Diverse and Controllable Image Captioning with Part-of-Speech Guidance](https://arxiv.org/abs/1805.12589) - Deshpande A et al, `arXiv preprint 2018`.
 
 ### 2019
@@ -163,14 +163,14 @@ Markdown format:
 * [Look Back and Predict Forward in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_Look_Back_and_Predict_Forward_in_Image_Captioning_CVPR_2019_paper.pdf) - Qin Y et al, `CVPR 2019`.
 * [Self-critical n-step Training for Image Captioning](https://arxiv.org/abs/1904.06861) - Gao J et al, `CVPR 2019`.
 * [Intention Oriented Image Captions with Guiding Objects](https://arxiv.org/abs/1811.07662) - Zheng Y et al, `CVPR 2019`.
-* [Describing like humans: on diversity in image captioning](https://arxiv.org/abs/1903.12020) - Wang Q et al, `CVPR 2019`.
+* [Describing like humans: on diversity in image captioning](https://arxiv.org/abs/1903.12020) - Wang Q et al, `CVPR 2019`.[[code]](https://github.com/qingzwang/DiversityMetrics)  
 * [Adversarial Semantic Alignment for Improved Image Captions](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dognin_Adversarial_Semantic_Alignment_for_Improved_Image_Captions_CVPR_2019_paper.pdf) - Dognin P et al, `CVPR 2019`.
 * [MSCap: Multi-Style Image Captioning With Unpaired Stylized Text](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_MSCap_Multi-Style_Image_Captioning_With_Unpaired_Stylized_Text_CVPR_2019_paper.pdf) - Gao L et al, `CVPR 2019`.
 * [Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech](https://arxiv.org/abs/1805.12589) - Aditya D et al, `CVPR 2019`.
 * [Good News, Everyone! Context driven entity-aware captioning for news images](https://arxiv.org/abs/1904.01475) - Biten A F et al, `CVPR 2019`. [[code]](https://github.com/furkanbiten/GoodNews)
 * [CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection](https://github.com/zhangludl/code-and-dataset-for-CapSal) - Zhang L et al, `CVPR 2019`. [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)
 * [Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/abs/1903.05942) - Kim D et al, `CVPR 2019`. [[code]](https://github.com/Dong-JinKim/DenseRelationalCaptioning)
-* [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2) - Cornia M et al, `CVPR 2019`. [[code]](https://github.com/aimagelab/show-control-and-tell)
+* [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2) - Cornia M et al, `CVPR 2019`. [[code]](https://github.com/aimagelab/show-control-and-tell)  
 * [Exact Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf) - Xu Y et al, `CVPR 2019`.
 #### *`AAAI 2019`*
 * [Meta Learning for Image Captioning](https://aaai.org/ojs/index.php/AAAI/article/view/4883/4756) - Li N et al, `AAAI 2019`.
@@ -195,7 +195,7 @@ Markdown format:
 * [Reflective Decoding Network for Image Captioning](https://arxiv.org/pdf/1908.11824.pdf) - Ke L at al, `ICCV 2019`.
 * [Learning to Collocate Neural Modules for Image Captioning](https://arxiv.org/pdf/1904.08608.pdf) - Yang X et al, `ICCV 2019`.
 #### *`NeurIPS 2019`*
-* [Image Captioning: Transforming Objects into Words](https://papers.nips.cc/paper/9293-image-captioning-transforming-objects-into-words) - Herdade S et al, `NeurIPS 2019`.
+* [Image Captioning: Transforming Objects into Words](https://papers.nips.cc/paper/9293-image-captioning-transforming-objects-into-words) - Herdade S et al, `NeurIPS 2019`. [[code]](https://github.com/yahoo/object_relation_transformer)  
 * [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang L et al, `NeurIPS 2019`. [[code]](https://github.com/husthuaan/AAT)
 * [Variational Structured Semantic Inference for Diverse Image Captioning](https://papers.nips.cc/paper/8468-variational-structured-semantic-inference-for-diverse-image-captioning) - Chen F et al, `NeurIPS 2019`.
 * [Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations](https://papers.nips.cc/paper/8909-aligning-visual-regions-and-textual-concepts-for-semantic-grounded-image-representations.pdf) - Liu F et al, `NeurIPS 2019`. [[code]](https://github.com/fenglinliu98/MIA)
